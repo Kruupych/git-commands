@@ -1,2 +1,3 @@
 hello darkness
 my old friend
+some string with deep sense
