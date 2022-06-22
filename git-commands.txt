@@ -92,7 +92,7 @@ f - сила(чтобы что-то почистить, нужен флаг forc
 
 	git reset -- file.txt
 
-Допольнить коммит:
+Дополнить коммит:
 
 	git commit --amend -m"comments"
 
